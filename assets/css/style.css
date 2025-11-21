@@ -1,0 +1,33 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    .educacion{
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 95%;
+        max-width: 800px;
+    }
+
+    .experiencia{
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 95%;
+        max-width: 800px;
+    }
+
+        .portafolio{
+        margin: 0 auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 95%;
+        max-width: 800px;
+    }
+
+    .footer{
+        margin: 0 auto;
+        width: 100;
+    }
